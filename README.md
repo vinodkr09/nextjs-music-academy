@@ -1,5 +1,30 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+## Project Overview
+The Music Academy project is a modern web app created for music lovers and learners. It offers a platform where users can explore and enroll in music courses, access educational content, and interact with instructors. The app is built with Next.js, Tailwind CSS, TypeScript, and Aceternity UI, using the latest technology to provide a responsive and user-friendly experience.
+
+
+## Deployment Link
+
+
+
+
+## TechStack Used ( Frontend )
+- Next.js: A popular React-based framework for building server-side rendered (SSR) and statically generated websites and applications. 
+- Tailwind CSS: A utility-first CSS framework for building custom user interfaces. It provides a set of pre-defined classes to style HTML elements, making it easy to write consistent and maintainable CSS code.
+- Typescript: A statically typed, superset of JavaScript that provides better code maintainability, scalability, and compatibility with existing JavaScript code. It helps catch errors early and improves code readability
+- Aceternity UI: Aceternity UI is a design system and a collection of UI components based on Tailwind CSS. It offers ready-made components and guidelines to help create consistent and attractive user interfaces easily.
+
+
+## Features
+- Course listing
+- Instructor Profiles
+- User Registration
+- Dynamic Content Rendering
+
+
+
 ## Getting Started
 
 First, run the development server:
