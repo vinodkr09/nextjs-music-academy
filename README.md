@@ -7,7 +7,7 @@ The Music Academy project is a modern web app created for music lovers and learn
 
 ## Deployment Link
 
-
+![Deployement link](https://nextjs-music-academy-blush.vercel.app/)
 
 
 ## TechStack Used ( Frontend )
