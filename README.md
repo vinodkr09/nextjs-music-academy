@@ -5,9 +5,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 The Music Academy project is a modern web app created for music lovers and learners. It offers a platform where users can explore and enroll in music courses, access educational content, and interact with instructors. The app is built with Next.js, Tailwind CSS, TypeScript, and Aceternity UI, using the latest technology to provide a responsive and user-friendly experience.
 
 
-## Deployment Link
+## Deployment
 
-![Deployement link](https://nextjs-music-academy-blush.vercel.app/)
+The application is deployed on Vercel and can be accessed [Deployement link](https://nextjs-music-academy-blush.vercel.app/).
 
 
 ## TechStack Used ( Frontend )
